@@ -21,7 +21,7 @@ on:
         description: 'کیفیت (ویدیو: 720p, 1080p | صدا: 192kbps, 320kbps)'
         required: false
         type: string
-        default: '720p'
+        default: '480p'
 
       max_part_mb:
         description: 'حداکثر حجم هر قسمت (MB) - 0 = خودکار ۱۸۰۰ مگابایت'
